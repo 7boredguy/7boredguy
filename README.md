@@ -12,8 +12,8 @@ TODO: Add discord acc
 ## 💻 What I Do
 
 ### 🟨 JavaScript
-- Build **desktop applications** using the **Electron** framework
-- Create **Discord bots** with `discord.js`
+- Build **desktop applications** using the [`Electron framework`](https://www.electronjs.org/)
+- Create **Discord bots** with [`discord.js`](https://discord.js.org/)
 - Develop **Web Applications** using HTML/CSS and TypeScript / Vanilla JavaScript
 
 ---
